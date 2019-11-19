@@ -1,7 +1,6 @@
 package jp.ac.uryukyu.ie.e195708;
 
 
-
 /**
  * 敵クラス。
  *  String name; //敵の名前
